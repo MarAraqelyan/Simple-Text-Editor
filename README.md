@@ -1,6 +1,6 @@
 # Text-Editor
 
-## something
+A basic text editor built using Python and Tkinter library. It provides features like font customization, file operations (new, open, save, save as), and essential text editing tools (undo, redo, copy, cut, paste).
 
 ## Features
 
