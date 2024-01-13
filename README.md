@@ -1,4 +1,6 @@
-# Simple-Text-Editor
+# Text-Editor
+
+## something
 
 ## Features
 
@@ -6,6 +8,28 @@
 - Create new files, open existing files, and save files.
 - Undo and redo functionality.
 - Copy, cut, and paste text.
+
+## How to Install and Run the Project
+
+### 1. Clone the Repository
+
+Clone this repository to your local machine using the following command in your terminal or command prompt:
+
+```bash
+git clone https://github.com/your-username/text-editor.git
+```
+
+### 2. Navigate to Project Directory
+
+```bash
+cd TextEditor
+```
+
+### 3. Run the Text Editor
+
+```bash
+python text_editor.py
+```
 
 ## Usage
 
